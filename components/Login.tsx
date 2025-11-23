@@ -274,7 +274,7 @@ const Login: React.FC<Props> = ({ onLogin }) => {
                     className="w-full pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 outline-none"
                     value={username}
                     onChange={(e) => setUsername(e.target.value)}
-                    placeholder="gustavo_benvindo80@hotmail.com"
+                    placeholder="Coloque seu usuario"
                 />
                 </div>
             </div>
